@@ -46,3 +46,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+OUTPUT :
+
+example.txt|77dc11e6c2e06bbd039022537f0de56aebde90760f02c182d5c49f9060acabbe
+data.csv|24f667bd7ba0178876c41ae0100d61f719655939cd3cbedac56591d0268d2031
